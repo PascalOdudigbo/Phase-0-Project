@@ -1,0 +1,75 @@
+
+h1 {
+    font-size: 2.25em;
+    line-height: 1em;
+    letter-spacing: .03em;
+    margin-bottom: 2px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Avenir Next Condensed', 'Arial Narrow', sans-serif;
+    font-style: bold;
+  }
+
+h2 {
+    font-size: 1.1em;
+    line-height: 1em;
+    letter-spacing: .03em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    font-style: italic; 
+    
+
+  }
+
+div {
+    background: black;
+    border: 1px solid black;
+    box-shadow: 0 2px 3px black;
+  } 
+  
+img {
+    width: 40%;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    box-shadow: 0 2px 3px black;
+  }
+p {
+    text-align: left;
+    font-size: medium;
+    font-family: 'Avenir Next Condensed', 'Arial Narrow', sans-serif;
+    margin-top: 20px;
+}
+
+.EB_year {
+    text-align: center;
+    font-style: italic,;
+    font-style: bold;
+    width: 90px;
+}
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    font-family: 'Avenir Next Condensed', 'Arial Narrow', sans-serif;
+}
+th{
+    font-size: large;
+    background-color: black;
+    text-decoration: solid;
+    text-align: center;
+    color: white;
+    height: 30px;
+}
+.skills {
+    font-style: italic;
+    font-style: bold;
+    font-family: 'Avenir Next Condensed', 'Arial Narrow', sans-serif;
+}
+.subskills {
+    font-style: normal;
+    font-family: 'Avenir Next Condensed', 'Arial Narrow', sans-serif;
+}
